@@ -1,3 +1,11 @@
+> [!CAUTION]
+> **This repository is DEPRECATED and will be archived on 2026-11-02.**
+>
+> It is no longer maintained and will become read-only on that date.
+> No new issues or pull requests will be accepted after the archive.
+>
+> If you depend on anything here, migrate before 2026-11-02.
+
 # openshell-credentials-keycloak
 
 OpenShell credentials driver that resolves credential placeholders to OAuth2 access tokens via Keycloak's `client_credentials` grant.
